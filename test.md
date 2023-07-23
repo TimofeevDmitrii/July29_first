@@ -3,3 +3,5 @@
 something code hear
 
 lesson 2
+
+I often have troubles with terminals errors
