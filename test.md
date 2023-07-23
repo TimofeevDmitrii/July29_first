@@ -6,4 +6,6 @@ lesson 2
 
 I often have troubles with terminals errors
 
+<<<<<<< HEAD
 It's our 5th seminar lesson
+I try to undestand working process with git
