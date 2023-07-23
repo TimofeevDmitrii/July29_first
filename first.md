@@ -2,4 +2,4 @@
 
 **First text in VS code**
 
-Programming is funny
+Programming is funny, I like it!
